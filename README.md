@@ -1,18 +1,18 @@
-# Hector Igna-Igboko's Portfolio
+# Web Scraper
 [Visit Site](https://higna.vercel.app)
 
-## Introduction
-Welcome to my portfolio! Here, you'll find a comprehensive overview of my work, skills, and projects developed over the years. This repository showcases my professional journey and highlights my expertise and achievements in data analysis, software development, and more.
+## Overview
+This project demonstrates a web scraper developed using Selenium, a powerful Python package for automating web applications. The scraper is designed to automate the data entry process, significantly improving efficiency and accuracy in data management.
 
 ## Table of Contents
-- [About Me](#about-me)
+- [Features](#features)
 - [Skills](#skills)
 - [Projects](#projects)
 - [Experience](#experience)
 - [Education](#education)
 - [Contact](#contact)
 
-## About Me
+## Features
 Hello! I'm Hector Igna-Igboko, a dedicated professional with a diverse background spanning data analysis, software development, and virology. Currently, I am pursuing a master's degree in Artificial Intelligence at the University of Ibadan, aiming to further enhance my skills and contribute to innovative solutions in technology and healthcare. My work includes projects like virus detection from images and developing chatbots to improve user support.
 
 ## Skills
