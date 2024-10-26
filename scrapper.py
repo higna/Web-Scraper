@@ -180,6 +180,7 @@ def fillform(inspector, ass_inspector, date_inspect, date_planting, status, accr
             EC.element_to_be_clickable((By.XPATH, '//span[contains(text(), "Date for 1st inspection (pre-planting)")]/following::input[@placeholder="yyyy-mm-dd"]'))
         )
         date_input1.click()
+        
         time.sleep(2)
         date_input1.clear()
         time.sleep(2)
