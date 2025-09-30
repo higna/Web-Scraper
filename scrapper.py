@@ -95,7 +95,7 @@ def reload_page():
 # Open webform
 def open_webform():
     try:
-        driver.get('https://enketo.seedtracker.org/x/ql9Kcse2')
+        driver.get('https://#webaddress')
         print("Navigated to webform")
         
         WebDriverWait(driver, 30).until(
